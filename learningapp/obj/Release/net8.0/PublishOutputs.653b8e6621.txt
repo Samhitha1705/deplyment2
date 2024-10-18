@@ -1,0 +1,7 @@
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\learningapp.exe
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\appsettings.Development.json
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\appsettings.json
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\learningapp.dll
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\learningapp.deps.json
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\learningapp.runtimeconfig.json
+C:\Users\MTL1016\Downloads\tmp5\learningapp\bin\publish\learningapp.pdb
